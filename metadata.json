@@ -1,0 +1,9 @@
+{
+  "name": "Chatrx Stuconnect",
+  "description": "An AI-powered curricular and co-curricular assistant platform.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
